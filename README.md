@@ -22,6 +22,7 @@ Bu proje, farklı kağıt türlerine göre **kitap sırt kalınlığını hesapl
 ## 📥 Kurulum ve Çalıştırma  
 ```bash
 # Depoyu klonlayın
+gh repo clone Ahmet-Dev/kitapsayfakalinlik
 
 # Gerekli paketleri yükleyin EXE için
 python --version 
