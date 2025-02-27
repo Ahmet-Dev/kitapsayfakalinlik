@@ -40,7 +40,7 @@ python main.py
 ## 🎯 Katkıda Bulunun  
 Projeye katkıda bulunmak için **pull request** gönderebilir veya **hata bildiriminde** bulunabilirsiniz.  
 
-🔗 **Repo Linki**: [GitHub Proje Sayfası](https://github.com/kullaniciadi/kitap-sirt-kalinligi-hesaplayici)  
+🔗 **Repo Linki**: [GitHub Proje Sayfası](https://github.com/Ahmet-Dev/kitapsayfakalinlik)  
 
 ---
 
